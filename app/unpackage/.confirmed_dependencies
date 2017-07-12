@@ -1,0 +1,16 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "static/js/build/flexible.debug.js",
+      "static/js/build/flexible_css.debug.js",
+      "static/js/Swiper-3.4.2/dist/css/swiper.min.css",
+      "static/js/Swiper-3.4.2/dist/js/swiper.min.js",
+      "static/js/jquery-1.11.3/jquery.min.js",
+      "static/css/font/iconfont.css",
+      "bundle.js"
+    ],
+    "refer": [],
+    "priority": 0
+  }
+}
